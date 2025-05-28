@@ -1,0 +1,1 @@
+// CM1106 device-specific definitions

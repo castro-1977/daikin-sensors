@@ -1,0 +1,1 @@
+// PM2105 device-specific definitions
